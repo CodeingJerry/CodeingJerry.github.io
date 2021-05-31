@@ -255,7 +255,8 @@ demo目录结构如下<figure class="highlight vim"><table><tr><td class="code">
         <category>效率工具</category>
       </categories>
       <tags>
-        <tag>GitHub Actions,Hexo</tag>
+        <tag>GitHub Actions</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
